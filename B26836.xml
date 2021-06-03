@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad relation of a great fire or two ... to the tune of Fortune my foe, or, Aim not too high / by Abraham Miles.</title>
+            <author>Miles, Abraham.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26836</idno><idno type="EEBO-CITATION">31355744</idno>
+  <idno type="VID">205936</idno>
+  <idno type="EEBO-PROQUEST">2240880959</idno>
+  
+            <idno type="STC">Wing M2044</idno>
+            <idno type="OCLC">31355744</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad relation of a great fire or two ... to the tune of Fortune my foe, or, Aim not too high / by Abraham Miles.</title>
+                  <author>Miles, Abraham.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Andrews ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date suggested by Wing (2nd ed.), also appears in ms. at end of sheet.</note>
+                  <note>Includes "The second part to the same tune."</note>
+                  <note>Includes two illustrations.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Fires --  England --  London.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:205936:1"/>
+            <pb facs="tcp:205936:1"/>
+            <pb facs="tcp:205936:2"/>
+            <head>A Sad and True Relation of a great fire or two.</head>
+            <argument>
+               <p>The most terrible and dangerous fire began in the house of Mr. <hi>George Delaun,</hi> an <hi>Hamborough</hi> Mer<g ref="char:EOLhyphen"/>chant <hi>in Lothberry,</hi> neer the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> Where Master <hi>Delaun</hi> and his Wife being big with Child, Daughter to Sir <hi>Thomas Allen</hi> of <hi>Finchly▪</hi> Mr. <hi>Gilbert,</hi> a Merchant, two Maid ser<g ref="char:EOLhyphen"/>vants, and a Nurse and her Husband, were all burned to ashes in the merciless flames of fire.</p>
+            </argument>
+            <opener>To the Tune of, <hi>Fortune my Foe,</hi> or <hi>Aim not too High.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>a half-clothed man and woman, arms raised; at their feet lies a dead woman, and to their right a variety of animals and a woman are being burned in a large fire</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>GIve thanks, rejoyce all, you that are secure,</l>
+               <l>No man doth know how long life may indure</l>
+               <l>Regard dear hearts, at the truth the authour aims,</l>
+               <l>Concerning those that suffer in fiery flames.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Friday</hi> night in the month of last <hi>December,</hi>
+               </l>
+               <l>Might peirce a stony heart for to remember,</l>
+               <l>The sad mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap concerning <hi>George Delaun,</hi>
+               </l>
+               <l>And of his friends that he did entertain.</l>
+            </lg>
+            <lg>
+               <l>This <hi>George Delaun</hi> of whom I do relate,</l>
+               <l>A <hi>Hamborough</hi> Merchant a man of great estate,</l>
+               <l>He and his Wife for recreation sake,</l>
+               <l>Till eleven at night their pleasures they did take▪</l>
+            </lg>
+            <lg>
+               <l>Then did they all prepare for rest,</l>
+               <l>Master and Mistris and all the welcome guest,</l>
+               <l>And then being in bed so well and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm,</l>
+               <l>Sleep closed their eyes &amp; they thought no one harm</l>
+            </lg>
+            <lg>
+               <l>But well a day it fils my heart with wo,</l>
+               <l>For Timber and Fagots lay in the Seller be late,</l>
+               <l>Some sparks of fire did light into the same,</l>
+               <l>Ther Wood and Oyl's soon of a burning flame.</l>
+            </lg>
+            <lg>
+               <l>Then did these fiery flames presently,</l>
+               <l>Brake into the low rooms most vehemently</l>
+               <l>Then to the steling this vehement flame</l>
+               <l>Made passage wide and broad still as it came.</l>
+            </lg>
+            <lg>
+               <l>Most vehemently it burned then upright,</l>
+               <l>And fired all along where it did light,</l>
+               <l>Less then three hours taking the building round▪</l>
+               <l>These buildings brave they all fell to the ground.</l>
+            </lg>
+            <lg>
+               <l>The people too, likewise they perished,</l>
+               <l>Were burnd to death as they did lye in Bed,</l>
+               <l>Their Spirits to him that gave them is returnd,</l>
+               <l>And their Bodies are to Dust and ashes burnd.</l>
+            </lg>
+            <lg>
+               <l>A Gentle Woman that was there that Day,</l>
+               <l>Desired all night she was to stay,</l>
+               <l>But she refused, well it went on her side,</l>
+               <l>Or else in fiery flames she had sure died.</l>
+            </lg>
+            <lg>
+               <l>How the fire was first espyed.</l>
+               <l>It was a womans chance the truth to tell,</l>
+               <l>Did sit up late with a Child that was not well,</l>
+               <l>Hearing a cracking, to seek she did begin,</l>
+               <l>For fear some Villains had been breaking in▪</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:205936:2"/>
+               <opener>The second part to the same Tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>a woman standing near a fireplace</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THen she lookt out at window presently,</l>
+                  <l>And then a mighty light she did espy,</l>
+                  <l>In discontent it made her to admire,</l>
+                  <l>As if an hundred Candles were on fire.</l>
+               </lg>
+               <lg>
+                  <l>In the Merchants lower Rooms she espied,</l>
+                  <l>The Violent flames and then aloud she cryed</l>
+                  <l>Fire, Fire, and being in dread and fear,</l>
+                  <l>And then the Coffee man he did her hear.</l>
+               </lg>
+               <lg>
+                  <l>And then the Coffee man immediately,</l>
+                  <l>Looking out at window heard a doleful cry,</l>
+                  <l>Lord have mercy on us, we are all undun,</l>
+                  <l>We know not how these miseries to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>un.</l>
+               </lg>
+               <lg>
+                  <l>These were the words as some do well remember,</l>
+                  <l>About two in the Morn, the 27. of <hi>December,</hi>
+                  </l>
+                  <l>But before four the fire did decay,</l>
+                  <l>And burnd these stately buildings clean away.</l>
+               </lg>
+               <lg>
+                  <l>O this fire it was so fearful hot,</l>
+                  <l>Like a Furnace or Refining Pot,</l>
+                  <l>But God he raised instruments in the way,</l>
+                  <l>To make this vehement fire then obey.</l>
+               </lg>
+               <lg>
+                  <l>They did so lustily water bring in,</l>
+                  <l>Into the fire then they did it fling,</l>
+                  <l>And with long hooks the fierceness to allay,</l>
+                  <l>Or thousands more it would have brought to decay.</l>
+               </lg>
+               <lg>
+                  <l>Mr. <hi>Terils</hi> House and others neer danger lay,</l>
+                  <l>Even by these fiery flames to melt away,</l>
+                  <l>With wet to quench they many ways contrive,</l>
+                  <l>To save their goods, their houses and their lives.</l>
+               </lg>
+               <lg>
+                  <l>That in <hi>Shore-ditch</hi> likewise we may deplore,</l>
+                  <l>Three houses burnt with their substance and store,</l>
+                  <l>Two or three people that fire did destroy,</l>
+                  <l>Some of their limbs in the Rubbish after lay.</l>
+               </lg>
+               <lg>
+                  <l>But now let us Remember <hi>Lothbury,</hi>
+                  </l>
+                  <l>And of the sad mischance and misery,</l>
+                  <l>Where <hi>George Delaun,</hi> was burned to the ground.</l>
+                  <l>And four lumps of flesh was after found.</l>
+               </lg>
+               <lg>
+                  <l>About the bigness of a mans hand were they,</l>
+                  <l>As black as a Coal, and a skul or two their lay;</l>
+                  <l>O little did they think over night being merry▪</l>
+                  <l>That before morn in fiery flames to fry.</l>
+               </lg>
+               <lg>
+                  <l>All you that are Masters of a family,</l>
+                  <l>Govern well your house and fear the God on high,</l>
+                  <l>For when to sleep that we do close our eyes,</l>
+                  <l>The Lord doth know whither ever we shall rise.</l>
+               </lg>
+               <byline>By Abraham Miles.</byline>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Andrews</hi> at the White-lyon neer <hi>Py-corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
